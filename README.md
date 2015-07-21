@@ -1,4 +1,4 @@
 Math_Lab_Code
 =============
 
-There is some basic command of MATLAB. You also can use that command in Octave
+There are some basic commands of MATLAB. The commands are also applicable in Octave.
